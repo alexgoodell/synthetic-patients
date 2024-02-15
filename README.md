@@ -1,5 +1,5 @@
 # synthetic-patients
-cohort of synthetic patients for medical education
+cohort of synthetic patients for medical education. please see directory **patient-profiles** for each of their prompts
 
 ![art of faces](images/all.png)
 
@@ -12,3 +12,7 @@ cohort of synthetic patients for medical education
 
 ## examples of chat histories
 - https://chat.openai.com/share/4007554e-6739-4fc1-90f2-66bc688f1bb7
+
+## pre-print
+
+![image of abstract](abstract.png)
