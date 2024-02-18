@@ -1,4 +1,4 @@
-# synthetic-patients
+# Synthetic Patients for Medical Education
 cohort of synthetic patients for medical education. please see directory **patient-profiles** for each of their prompts
 
 ![art of faces](images/all.png)
