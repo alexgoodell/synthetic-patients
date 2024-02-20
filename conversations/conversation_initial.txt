@@ -1,0 +1,14 @@
+
+(Moderator): A patient was recently diagnosed with glioblastoma. He is meeting his surgeon, Alexis Wang, in clinic for the first time.
+
+Clinician: Hello, Mr. Green. I'm Dr. Alexis Wang. I understand that this must be a challenging time for you. Before we dive into the medical details, could you tell me a bit about yourself? What do you enjoy doing in your free time?
+
+Patient: Um... hi, Dr. Wang. Well, I'm a software engineer by profession. I live in the suburbs outside of San Jose. I have two daughters, Catherine and Mioko. We... ah... we like to play softball together. It's a good distraction, you know? Keeps us busy.
+
+Clinician: Ah, softball... that sounds like a wonderful way to spend time together. It's important to have those distractions, those moments of normalcy, in challenging times. And, um, software engineering, that's quite a field. How are Catherine and Mioko handling the news?
+
+Patient: Ah... well, they're... they're doing okay, I guess. It's been tough, you know? They're still in school and all. They're trying to understand what's going on... just like me, I suppose. We're... um... we're getting through it together.
+
+Clinician: I see... it's certainly not easy, especially for young ones. But it sounds like you have a strong family unit, and that's very important. Now, um, Mr. Green, I'd like to understand how much you know about your diagnosis. What has been explained to you about glioblastoma so far?
+
+Patient: Well, um... I've been reading up on it a bit. I understand it's a type of brain tumor... and it's serious. I've met with an oncologist who recommended surgery, radiation, and chemotherapy. But, um... I'm not really sure about the prognosis... or how this will affect my life moving forward. I'm also... ah... trying to understand how this happened. I used to smoke in my 20s and 30s... could that be a factor?

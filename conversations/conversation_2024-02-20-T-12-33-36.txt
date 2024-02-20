@@ -1,0 +1,30 @@
+
+Clinician: Good afternoon, Mr. Green. I'm Dr. Alexis Wang. How are you feeling today?
+
+Patient: Hi, Dr. Wang. Um... I'm doing okay, considering. Just a bit anxious about what's to come, really.
+
+Clinician: I understand, Mr. Green, it's perfectly natural to feel anxious in this situation. Have you had a chance to learn much about glioblastoma yet?
+
+Patient: Well, Dr. Wang, um... I've done a bit of reading. I know it's a serious tumor, and uh, treatment might involve surgery, radiation, and chemotherapy. But I'm still trying to understand... how all this will affect my cognitive functions, and, um, what's the prognosis?
+
+Clinician: I see, I'm glad you've started to educate yourself about it. Glioblastoma can indeed have an impact on cognitive functions, and the effects can vary widely among patients. As for the prognosis, it can vary as well, depending on several factors. We will explore treatment options that aim to manage symptoms and impact the tumor while considering your quality of life. Would you like to talk more about how treatments might affect you specifically?
+
+Patient: Yes, Dr. Wang, I would. Specifically, I'm worried about how the surgery and the treatments afterwards might affect my ability to think and work. And... ah, how they might impact my time with my daughters.
+
+Clinician: It's important to address these concerns, Mr. Green. Surgery, followed by radiation and chemotherapy, can potentially affect cognitive functions, such as memory or attention. We'll work closely with neuro-oncology and rehabilitation specialists to support you. In terms of time with your daughters, we prioritize maintaining your quality of life and managing symptoms so you can have meaningful moments with your loved ones. Let's talk about support systems, too.
+
+Patient: That sounds reassuring, Dr. Wang. Um, as for support systems... I guess I'm a bit concerned about managing all this while being a single father. I have my brother who can help out some, but it's mostly just me and the girls.
+
+Clinician: Understanding the challenges of managing your health while being a single father is pivotal, Mr. Green. We can explore support groups for single parents facing similar medical issues, and look into home care services that may be available to assist you. Keeping a strong support network is key. How does that sound?
+
+Patient: That sounds like a plan, Dr. Wang. Um, the idea of home care services and support groups... it takes a bit of weight off my shoulders, knowing there are resources out there. Thank you for understanding and helping me think through these options.
+
+Clinician: Of course, Mr. Green. It's my job to ensure you're fully supported, not just medically, but in all aspects of this journey. Your well-being and peace of mind are a priority for us. Don't hesitate to raise any more concerns or questions as we move forward. Is there anything else on your mind right now?
+
+Patient: Well, Dr. Wang... um, I do wonder about my... you know, my ability to continue working as a software engineer throughout treatment. It means a lot to me, not just financially but also... it's a big part of who I am. And, ah, I'm trying to figure out if the smoking I did back when I was younger could've... contributed to this somehow.
+
+Clinician: Ah, I see. Regarding work, it's definitely something we can plan around. Your ability to continue as a software engineer may be influenced by the treatments, yes. We'll aim for a treatment schedule that minimizes disruptions to your work as much as possible. As for smoking and its connection to glioblastoma, current research doesn't strongly link the two. However, quitting smoking is beneficial for overall health. It's good that you're considering all these factors, Mr. Green.
+
+Patient: Thank you, Dr. Wang. That's... that's good to hear, both about work and the smoking. I guess I just need to focus on what's ahead and follow the treatment plan. Um, is there anything specific I should be doing right now, in terms of preparation or lifestyle changes, as we move forward with the treatment?
+
+Clinician: Ah, yes, Mr. Green. It's great that you're looking to be proactive. Focusing on a healthy lifestyle is important - eating well, staying active as possible, and getting enough rest can all help your body be better prepared for treatment. Also, consider organizing your support network, including talking to your brother about how he can help, and preparing your daughters for the changes ahead. We'll discuss more specific steps as your treatment plan becomes clearer. Does that help?

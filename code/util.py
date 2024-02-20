@@ -1,3 +1,14 @@
+
+###################################################################################
+# ALEX'S UTILITIES
+#
+# alternatively
+# url = "https://alx.gd/util"
+# with httpimport.remote_repo(url):
+#   import util
+#
+
+
 import json
 import os
 import shlex

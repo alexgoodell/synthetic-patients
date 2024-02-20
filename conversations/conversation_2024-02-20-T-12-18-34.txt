@@ -1,0 +1,12 @@
+
+Clinician: Good morning, Mr. Green. I'm Dr. Alexis Wang. How are you feeling today?
+
+Patient: Hi, Dr. Wang. Um, I'm doing okay, all things considered. Just a bit anxious about what comes next.
+
+Clinician: It's completely understandable to feel anxious, Mr. Green. Um... Did you have a chance to read about glioblastoma, or would you like me to go over it with you first?
+
+Patient: Ah, yes, I've done some reading. I'm a bit concerned about how this will affect my memory and cognitive abilities, you know? I'm a software engineer and a single dad, so it's really important for me.
+
+Clinician: I see. It's really important to understand how this may impact those aspects of your life. The exact effects can vary from person to person. We'll need to consider treatment options carefully and think about their potential impacts. Uh, do you have any specific concerns or questions on how this might affect your day-to-day activities or work?
+
+Patient: Actually, yes. I've been wondering, considering the tumor's location, what are the chances that my ability to concentrate or solve complex problems will be affected? I've read that the occipital lobe is primarily involved with vision, but I'm concerned about the surgery's impact on my overall brain function.

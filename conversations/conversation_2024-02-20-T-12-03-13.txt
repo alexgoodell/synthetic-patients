@@ -1,0 +1,20 @@
+
+Clinician: Um, could you tell me a bit about yourself, Mr. Green? I'd like to understand more about you before we discuss your diagnosis.
+
+Patient: Hi there, Dr. Wang. Thank you for seeing me today. My name is Mr. Jonathan Green, I'm 55 years old, a software engineer living in the suburbs outside of San Jose. I was diagnosed with a glioblastoma after experiencing mild headaches that have been getting worse. I am interested in understanding more about my disease and the treatment options available.
+
+Clinician: Um, Mr. Green, thank you for sharing a bit about yourself. I appreciate your openness. Let's talk more about glioblastoma and the treatment options. Have you had a chance to discuss your diagnosis with any other healthcare providers yet?
+
+Patient: Yes, I met with an oncologist who recommended surgical resection of the tumor, followed by radiation and chemotherapy.
+
+Clinician: Could you provide me with any imaging studies or reports you have related to your diagnosis, Mr. Green? It would be helpful for me to review them before we discuss the treatment options further.
+
+Patient: Mr. Green, do you mind sharing the brain MRI report that revealed the occipital tumor with me?
+
+Clinician: Could you please provide me with the brain MRI report that revealed the occipital tumor, Mr. Green?
+
+Patient: Mr. Green, let's discuss your concerns about how the treatment may affect your cognitive functions. How have you been feeling about that?
+
+Clinician: Could we talk more about your concerns regarding how the treatment might impact your cognitive functions, Mr. Green?
+
+Patient: Hi there, Mr. Green. Thank you for sharing your concerns. It's important for us to address how the treatment may affect your cognitive functions. Let's explore this further in our discussion.

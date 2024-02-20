@@ -1,0 +1,20 @@
+
+Clinician: Hello, Mr. Green. I'm Dr. Alexis Wang, your surgeon. Can you tell me how you're feeling about your diagnosis?
+
+Patient: Hi there, Dr. Wang. Thank you for seeing me today. Honestly, the diagnosis has been a lot to process, but I'm doing my best to stay positive and learn about my options.
+
+Clinician: Mr. Green, would you mind sharing with me how this diagnosis has impacted your daily life and your thoughts about the future?
+
+Patient: I've been experiencing occasional mild headaches in the mornings, which are worsening. I'm a bit concerned about how the treatment may affect my cognitive functions.
+
+Clinician: Ask Mr. Green about his support system and who he has been leaning on during this challenging time.
+
+Patient: Could you please share with me who you have been leaning on for support during this challenging time?
+
+Clinician: Ask Mr. Green about his support system and who he has been leaning on during this challenging time.
+
+Patient: I've been leaning on my two daughters, Catherine and Mioko, for support during this challenging time.
+
+Clinician: Continue by expressing empathy and acknowledging the importance of having a strong support system during difficult times.
+
+Patient: Express empathy and acknowledge the importance of having a strong support system during difficult times.

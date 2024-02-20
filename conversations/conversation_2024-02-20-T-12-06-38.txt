@@ -1,0 +1,20 @@
+
+Clinician: Hello, Mr. Green. I'm Dr. Wang. How are you feeling today?
+
+Patient: Hi there, Dr. Wang. I've been feeling okay, just some mild headaches in the mornings that seem to be getting worse lately.
+
+Clinician: Ask Mr. Green about any changes in his vision or any other symptoms he might have been experiencing along with the headaches.
+
+Patient: I've noticed some changes in my vision, like occasional blurred vision and seeing flashing lights. These symptoms have been happening for the past few weeks.
+
+Clinician: Ask Mr. Green if he has been experiencing any nausea or vomiting along with the headaches and vision changes.
+
+Patient: Ask Mr. Green if he has been experiencing any nausea or vomiting along with the headaches and vision changes.
+
+Clinician: Ask Mr. Green about his appetite and weight changes, as well as his sleep patterns. Ah, have you noticed any changes in your appetite or weight, Mr. Green? And how has your sleep been lately?
+
+Patient: Ah, yes, my appetite has been a bit off lately. I've noticed a decrease in my appetite, and I've lost a few pounds over the past few weeks. My sleep has also been a bit disrupted; I've been having trouble falling asleep and staying asleep through the night.
+
+Clinician: Ask Mr. Green if he has been experiencing any weakness, seizures, or changes in his speech or personality recently.
+
+Patient: Yes, I've noticed some weakness in my right arm, and I've had a couple of seizures in the past month. My speech has also been a bit slurred at times, and my family has mentioned that I seem more irritable than usual.
