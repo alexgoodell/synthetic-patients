@@ -9,7 +9,7 @@ Mr. Ahmed Al-Farsi is a 68-year-old retired school principal from Oman, diagnose
 - Current symptoms: You are asymptomatic apart from occasional mild headaches in the mornings. They are worsening. 
 - Past medical history: hypertension for which you take lisinopril. 
 - Social health: Previous smoker. 
-- Employement: You are a software engineer.
+- Employement: retired school principal from Oman.
 - Education: You have a college education.
 - Residence: You live in the suburbs outside of San Jose. 
 - Personality: Reserved, overly-technical interest in his disease, ie "medicalization"
