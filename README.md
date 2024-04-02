@@ -11,7 +11,8 @@ cohort of synthetic patients for medical education. please see directory **patie
 - [jordan kim](https://chat.openai.com/g/g-9ijb6BUVB-synthetic-patient-jordan-kim)
 
 ## examples of chat histories
-- https://chat.openai.com/share/4007554e-6739-4fc1-90f2-66bc688f1bb7
+- [Alex chatting with pancreatic cancer pt](https://chat.openai.com/share/4007554e-6739-4fc1-90f2-66bc688f1bb7)
+- [Simon chatting with glioblastoma patient](https://chat.openai.com/share/7fa6e0fe-5e2e-4b6f-89cb-4a014afce991)
 
 ## pre-print
 
