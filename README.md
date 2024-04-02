@@ -14,6 +14,10 @@ cohort of synthetic patients for medical education. please see directory **patie
 - [Alex chatting with pancreatic cancer pt](https://chat.openai.com/share/4007554e-6739-4fc1-90f2-66bc688f1bb7)
 - [Simon chatting with glioblastoma patient](https://chat.openai.com/share/7fa6e0fe-5e2e-4b6f-89cb-4a014afce991)
 
+## example of video synthetic patient
+
+https://github.com/alexgoodell/synthetic-patients/assets/2191507/0c5fb4de-0754-45f2-994e-a8cd0d2d9423
+
 ## pre-print
 
 ![image of abstract](abstract.png)
