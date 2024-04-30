@@ -7,7 +7,7 @@
 # with httpimport.remote_repo(url):
 #   import util
 #
-
+# poetry add pandas tabulate rich
 
 import json
 import os
